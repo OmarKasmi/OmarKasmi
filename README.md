@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmarKasmi
-- 👀 I’m interested in Web-Dev
+- 👀 I’m interested in Data Science / Web-Dev / MAchine Learning
 - 🌱 I’m currently learning Artificial Intelligence & Management
 - 📫 How to reach me: Ksm_omark5m@icloud.com or omar.kasmi.edu@groupe-gema.com
 
